@@ -1,0 +1,301 @@
+p2m4py package
+==============
+
+Submodules
+----------
+
+p2m4py.adherence\_category module
+---------------------------------
+
+.. automodule:: p2m4py.adherence_category
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.adherence\_functions module
+----------------------------------
+
+.. automodule:: p2m4py.adherence_functions
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.age\_range module
+------------------------
+
+.. automodule:: p2m4py.age_range
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.art\_adherence\_check\_scheduler module
+----------------------------------------------
+
+.. automodule:: p2m4py.art_adherence_check_scheduler
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.art\_lag\_calculator module
+----------------------------------
+
+.. automodule:: p2m4py.art_lag_calculator
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.art\_scheduler module
+----------------------------
+
+.. automodule:: p2m4py.art_scheduler
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.base\_prep\_intervention module
+--------------------------------------
+
+.. automodule:: p2m4py.base_prep_intervention
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.cd4\_calculator module
+-----------------------------
+
+.. automodule:: p2m4py.cd4_calculator
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.common module
+--------------------
+
+.. automodule:: p2m4py.common
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.condom\_use\_assigner module
+-----------------------------------
+
+.. automodule:: p2m4py.condom_use_assigner
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.day\_range\_calculator module
+------------------------------------
+
+.. automodule:: p2m4py.day_range_calculator
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.diagnoser module
+-----------------------
+
+.. automodule:: p2m4py.diagnoser
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.disease\_parameters module
+---------------------------------
+
+.. automodule:: p2m4py.disease_parameters
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.ergm module
+------------------
+
+.. automodule:: p2m4py.ergm
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.net\_stat\_prep\_intervention module
+-------------------------------------------
+
+.. automodule:: p2m4py.net_stat_prep_intervention
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.p2m\_logging module
+--------------------------
+
+.. automodule:: p2m4py.p2m_logging
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.p2m\_model module
+------------------------
+
+.. automodule:: p2m4py.p2m_model
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.person module
+--------------------
+
+.. automodule:: p2m4py.person
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.person\_creator module
+-----------------------------
+
+.. automodule:: p2m4py.person_creator
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.prep\_adherence\_configurator module
+-------------------------------------------
+
+.. automodule:: p2m4py.prep_adherence_configurator
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.prep\_age\_filter module
+-------------------------------
+
+.. automodule:: p2m4py.prep_age_filter
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.prep\_cessation\_event module
+------------------------------------
+
+.. automodule:: p2m4py.prep_cessation_event
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.prep\_intervention module
+--------------------------------
+
+.. automodule:: p2m4py.prep_intervention
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.prep\_intervention\_manager module
+-----------------------------------------
+
+.. automodule:: p2m4py.prep_intervention_manager
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.prep\_parameters module
+------------------------------
+
+.. automodule:: p2m4py.prep_parameters
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.prep\_status module
+--------------------------
+
+.. automodule:: p2m4py.prep_status
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.prob\_dist\_creator module
+---------------------------------
+
+.. automodule:: p2m4py.prob_dist_creator
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.random\_selection\_prep\_intervention module
+---------------------------------------------------
+
+.. automodule:: p2m4py.random_selection_prep_intervention
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.range module
+-------------------
+
+.. automodule:: p2m4py.range
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.range\_with\_probability module
+--------------------------------------
+
+.. automodule:: p2m4py.range_with_probability
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.serodiscordant\_prep\_intervention module
+------------------------------------------------
+
+.. automodule:: p2m4py.serodiscordant_prep_intervention
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.stage module
+-------------------
+
+.. automodule:: p2m4py.stage
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.testing\_configurator module
+-----------------------------------
+
+.. automodule:: p2m4py.testing_configurator
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.transmission\_runner module
+----------------------------------
+
+.. automodule:: p2m4py.transmission_runner
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.viral\_load\_calculator module
+-------------------------------------
+
+.. automodule:: p2m4py.viral_load_calculator
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+p2m4py.viral\_load\_slope\_calculator module
+--------------------------------------------
+
+.. automodule:: p2m4py.viral_load_slope_calculator
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: p2m4py
+   :members:
+   :undoc-members:
+   :show-inheritance:
